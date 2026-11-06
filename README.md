@@ -32,18 +32,4 @@ Las dos redes usan los mismos datos e hiperparámetros: 10 épocas, lote de 128,
 
 La DCGAN genera prendas más nítidas y cercanas a las reales (FID 3,5 veces menor), a cambio de un mayor costo computacional.
 
-## Cómo ejecutarlo
-1. Haz clic en el botón **Abrir en Colab**.
-2. (Opcional) Activa la GPU en *Entorno de ejecución → Cambiar tipo de entorno de ejecución → GPU*.
-3. Ejecuta todas las celdas en *Entorno de ejecución → Ejecutar todas*. El conjunto de datos se descarga automáticamente desde Keras.
 
-**Requisitos:** Python 3, TensorFlow 2.x, NumPy, SciPy y Matplotlib (ya vienen instalados en Colab).
-
-## Archivos
-- `GAN_FashionMNIST_RubyCardenas.ipynb`: cuaderno con el código y los resultados
-- `Informe_GAN_RubyCardenasGomez.docx`: informe en normas APA
-
-## Referencias
-- Goodfellow, I., et al. (2014). Generative adversarial nets. *NeurIPS 27*.
-- Radford, A., Metz, L., y Chintala, S. (2016). *Unsupervised representation learning with deep convolutional GANs*. arXiv:1511.06434.
-- Xiao, H., Rasul, K., y Vollgraf, R. (2017). *Fashion-MNIST*. arXiv:1708.07747.
