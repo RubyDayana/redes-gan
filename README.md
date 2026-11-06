@@ -2,9 +2,9 @@
 
 **Estudiante:** Ruby Dayana Cárdenas Gómez
 **Docente:** Paul Alexander Díaz Montaña
-**Curso:** 604010 Inteligencia Artificial – Conceptos · Universidad de Cundinamarca
+**Curso:** Inteligencia Artificial – Conceptos · Universidad de Cundinamarca
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/GAN_FashionMNIST_RubyCardenas.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RubyDayana/redes-gan/blob/main/GAN_FashionMNIST_RubyCardenas.ipynb)
 
 ## Descripción
 Práctica en la que se entrenan dos redes generativas adversarias (GAN) sobre el conjunto **Fashion-MNIST** (60.000 imágenes de prendas, 28×28) y se comparan:
